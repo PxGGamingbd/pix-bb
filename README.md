@@ -3,7 +3,7 @@
 
 Simples site de ClipBoard do QR-CODE e chave pix para um cliente
 
-## 💻 Objetico
+## 💻 Objetivo
 Durante a realização de um cartão convite interativo para um cliente, no setor de presente pix, foi necessário a customização de uma página.
 Como o cliente só tinha chave pix no Banco do Brasil e este banco ainda não possuia uma página customizada para facilitar o copy&paste das chaves pix, foi necessário fazer uma página customizada, assim como esta página do Nubank (https://nubank.com.br/pagar/6w4k/rQ0lmOk8BR)
 
